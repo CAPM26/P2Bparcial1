@@ -182,5 +182,4 @@ public class ClsSistemaComisiones {
         System.out.println("\nVENDEDOR(A) CON MAYOR SUELDO: "+v[Masueldo].getNombre());
         System.out.println("VENDEDOR(A) CON MENOR SUELDO: "+v[mesueldo].getNombre());
     }
-    
 }
